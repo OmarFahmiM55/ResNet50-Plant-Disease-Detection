@@ -22,7 +22,7 @@ It is part of a comparative study where different CNN architectures (MobileNetV2
 
 ---
 
-## 🚀 Training Results
+##  Training Results
 After training for **100 epochs**, ResNet50 achieved:
 
 | Metric        | Training | Validation |
@@ -33,5 +33,3 @@ After training for **100 epochs**, ResNet50 achieved:
  The model shows **excellent generalization** with very high validation accuracy and low loss.
 
 ---
-
-## 📂 Repository Structure
